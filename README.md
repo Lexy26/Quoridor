@@ -1,7 +1,7 @@
 # Quoridor
 
-Projet d'informatique 1 - ULB
+**Projet d'informatique 1 - ULB**
 
-Implementation of Quoridor game using Artificial Intelligence to simulate the opponent
+Implémentation du jeu Quoridor avec intelligence artificielle pour simuler l'adversaire
 
-The final project is in "Partie 4"
+Le projet final se trouve dans la "Partie 4".
